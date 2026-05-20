@@ -4,7 +4,7 @@
 
 <!-- MAIN DASHBOARD IMAGE -->
 <p align="center">
-  <img src="YOUR_DASHBOARD_IMAGE_LINK_HERE" width="100%" alt="Main Dashboard"/>
+  <img width="1920" height="1037" alt="Main Dashboard" src="https://github.com/user-attachments/assets/908488f2-f938-43bf-9c63-7aba26e9d717" width="100%" />
 </p>
 
 ![Tech Stack](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge)
@@ -59,7 +59,7 @@ The project is built using the **MERN Stack** with optional offline AI integrati
 
 <!-- SAHAYAK IMAGE -->
 <p align="center">
-  <img src="YOUR_SAHAYAK_IMAGE_LINK_HERE" width="85%" alt="Sahayak AI"/>
+  <img width="1920" height="1038" alt="Image" src="https://github.com/user-attachments/assets/0da91464-8485-4f0a-99ce-f5f5f1565d2b" alt="sahayak AI" />
 </p>
 
 An intelligent voice-based assistant designed for accessibility and offline usage.
@@ -107,7 +107,21 @@ Margadarshak supports offline AI capabilities for low-connectivity regions.
 
 <!-- SECOND DASHBOARD IMAGE -->
 <p align="center">
-  <img src="YOUR_SECOND_IMAGE_LINK_HERE" width="100%" alt="Dashboard Preview"/>
+ <p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/cb033c04-a407-4e5a-96c0-5a3b39556673"
+    width="45%"
+    alt="Dashboard Preview 1"
+    style="display:inline-block; margin-right:10px;"
+  />
+
+  <img 
+    src="https://github.com/user-attachments/assets/41210a79-337e-4331-8728-c5554f3a2544"
+    width="45%"
+    alt="Dashboard Preview 2"
+    style="display:inline-block;"
+  />
+</p>
 </p>
 
 ### Student Dashboard
