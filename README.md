@@ -107,22 +107,9 @@ Margadarshak supports offline AI capabilities for low-connectivity regions.
 
 <!-- SECOND DASHBOARD IMAGE -->
 <p align="center">
- <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/cb033c04-a407-4e5a-96c0-5a3b39556673"
-    width="45%"
-    alt="Dashboard Preview 1"
-    style="display:inline-block; margin-right:10px;"
-  />
-
-  <img 
-    src="https://github.com/user-attachments/assets/41210a79-337e-4331-8728-c5554f3a2544"
-    width="45%"
-    alt="Dashboard Preview 2"
-    style="display:inline-block;"
-  />
+| <img src="https://github.com/user-attachments/assets/cb033c04-a407-4e5a-96c0-5a3b39556673" width="100%"> | <img src="https://github.com/user-attachments/assets/1df8de21-f674-40bc-b8f5-4fbeafa84408" width="100%"> |
 </p>
-</p>
+</p
 
 ### Student Dashboard
 - Challenges
