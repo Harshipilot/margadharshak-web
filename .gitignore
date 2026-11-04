@@ -10,8 +10,6 @@ pnpm-debug.log*
 # =========================
 # Environment Variables
 # =========================
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -38,7 +36,6 @@ Thumbs.db
 # =========================
 # IDE / Editor
 # =========================
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -132,3 +129,4 @@ backups/
 *.zip
 *.rar
 *.7z
+config.bat

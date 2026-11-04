@@ -4,12 +4,17 @@
   "description": "Margadarshak - AI-powered rural education platform backend",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js",
+    "start": "node init && node server.js",
+    "dev": "node init && nodemon server.js",
     "test": "jest",
     "seed": "node seed.js"
   },
-  "keywords": ["education", "rural", "ai", "sahayak"],
+  "keywords": [
+    "education",
+    "rural",
+    "ai",
+    "sahayak"
+  ],
   "author": "Team Margadarshak",
   "license": "MIT",
   "dependencies": {

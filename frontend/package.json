@@ -5,8 +5,8 @@
   "description": "Margadarshak - AI-powered rural education platform frontend",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "node init && vite",
+    "build": "node init && vite build",
     "preview": "vite preview",
     "lint": "eslint src"
   },
